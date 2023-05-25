@@ -1,5 +1,11 @@
 package com.backend.dao.impl;
 
+<<<<<<< HEAD
+=======
+import com.backend.dao.H2Connection;
+import com.backend.dao.IDao;
+import com.backend.entity.Odontologo;
+>>>>>>> 80a584712544734bc402e3c8168cb4dfc07b1041
 import org.apache.log4j.Logger;
 
 import java.sql.*;

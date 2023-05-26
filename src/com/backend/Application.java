@@ -1,6 +1,7 @@
 package com.backend;
 
 import com.backend.dao.impl.OdontologoDaoH2;
+import com.backend.entity.Odontologo;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,5 +1,8 @@
 package com.backend.dao.impl;
 
+import com.backend.dao.IDao;
+import com.backend.entity.Odontologo;
+
 import java.util.ArrayList;
 import java.util.List;
 
